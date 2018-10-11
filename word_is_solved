@@ -1,3 +1,0 @@
-word = set('')
-guesses = set('')
-print(word.issubset(guesses))
